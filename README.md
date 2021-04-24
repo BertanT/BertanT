@@ -1,6 +1,6 @@
 # print("Hello, world!"); 
 - 👋 Hi, I’m Bertan! (He/Him)
-- 👀 I’m interested in Swift, Arduino, CircuitPython, Particle IoT, and Raspberry Pi!
+- 👀 I’m interested in Swift, Arduino, CircuitPython, Internet of Things, and Raspberry Pi!
 - 🌱 I’m currently learning TensorFlow - and anything that suddenly interests me :)
 - 📚 I'm currently a high school student.
 
