@@ -6,6 +6,9 @@
 - 📚 I'm currently a high school student.
 ## ✏️ My Latest Stories on Medium
 <!-- BLOG-POST-LIST:START -->
+- [Only on Mac: the Most Distinctive Qualities of the Macintosh](https://medium.com/the-geeqy/only-on-mac-the-most-distinctive-qualities-of-the-macintosh-e2b03d90aa76?source=rss-8cc1101d47c1------2)
+- [Story of the World's Most Iconic Camera: Polaroid!](https://medium.com/the-geeqy/story-of-the-polaroid-cef3605860d4?source=rss-8cc1101d47c1------2)
+- [Kodlama Serüvenim: Swift Student Challenge Başvurum](https://medium.com/turkishkit/kodlama-seruvenim-swift-student-challenge-41318b6a7cd0?source=rss-8cc1101d47c1------2)
 <!-- BLOG-POST-LIST:END -->
 <!---
 BertanT/BertanT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
