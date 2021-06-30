@@ -6,9 +6,9 @@
 - 📚 I'm currently a high school student.
 ## ✏️ My Latest Stories on Medium
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI: Label](https://medium.com/turkishkit/swiftui-label-f9b49a18e772?source=rss-8cc1101d47c1------2)
 - [SwiftUI: GeometryReader](https://medium.com/turkishkit/swiftui-geometryreader-f02a93c4df78?source=rss-8cc1101d47c1------2)
 - [SwiftUI: Section](https://medium.com/turkishkit/swiftui-section-154f1e4d648b?source=rss-8cc1101d47c1------2)
-- [WWDC21: SF Symbols 3](https://medium.com/turkishkit/wwdc21-sf-symbols-3-55fe262cf557?source=rss-8cc1101d47c1------2)
 <!-- BLOG-POST-LIST:END -->
 <!---
 BertanT/BertanT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
