@@ -3,7 +3,7 @@
 - 👀 I’m interested in Swift, Arduino, CircuitPython, Internet of Things, and Raspberry Pi!
 - 🌱 I’m currently learning TensorFlow - and anything that suddenly interests me :)
 - 🔭 I'm currently working on a new Medium publication about electronics and programming!
-- 📚 I'm currently a high school student.
+- 📚 I'm currently an IB DP student.
 ## ✏️ My Latest Stories on Medium
 <!-- BLOG-POST-LIST:START -->
 - [SwiftUI: Label](https://medium.com/turkishkit/swiftui-label-f9b49a18e772?source=rss-8cc1101d47c1------2)
