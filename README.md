@@ -6,9 +6,9 @@
 - 📚 I'm currently an IB DP student.
 ## ✏️ My Latest Stories on Medium
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI: Material](https://medium.com/turkishkit/swiftui-material-4a9cf6828d4f?source=rss-8cc1101d47c1------2)
 - [SwiftUI: ScaledMetric](https://medium.com/turkishkit/swiftui-scaledmetric-547b2ba2564d?source=rss-8cc1101d47c1------2)
 - [SwiftUI: Localization](https://medium.com/turkishkit/swiftui-localization-53b924841eea?source=rss-8cc1101d47c1------2)
-- [SwiftUI: StateObject](https://medium.com/turkishkit/swiftui-stateobject-8520b4840177?source=rss-8cc1101d47c1------2)
 <!-- BLOG-POST-LIST:END -->
 <!---
 BertanT/BertanT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
