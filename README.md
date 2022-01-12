@@ -6,9 +6,9 @@
 - 📚 I'm currently an IB DP student.
 ## ✏️ My Latest Stories on Medium
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI: PencilKit ile Çizim](https://medium.com/turkishkit/swiftui-pencilkit-ile-%C3%A7izim-e7634014b39a?source=rss-8cc1101d47c1------2)
 - [SwiftUI: ViewModifier](https://medium.com/turkishkit/swiftui-viewmodifier-d13b8bfced56?source=rss-8cc1101d47c1------2)
 - [SwiftUI: Menu](https://medium.com/turkishkit/swiftui-menu-e28cad180beb?source=rss-8cc1101d47c1------2)
-- [SwiftUI: Material](https://medium.com/turkishkit/swiftui-material-4a9cf6828d4f?source=rss-8cc1101d47c1------2)
 <!-- BLOG-POST-LIST:END -->
 <!---
 BertanT/BertanT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
