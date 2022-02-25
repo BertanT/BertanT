@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning TensorFlow - and anything that suddenly interests me :)
 - 🔭 I'm currently working on a new Medium publication about electronics and programming!
 - 📚 I'm currently an IB DP student.
+- 🎠 [Check out my Swift Playgrounds Subscription!](https://www.playgrounds.bertan.codes)
 ## ✏️ My Latest Stories on Medium
 <!-- BLOG-POST-LIST:START -->
 - [SwiftUI: PencilKit ile Çizim](https://medium.com/turkishkit/swiftui-pencilkit-ile-%C3%A7izim-e7634014b39a?source=rss-8cc1101d47c1------2)
