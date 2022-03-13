@@ -12,5 +12,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/feed/@bertan.tarakcioglu"
-          max_post_count: 3
+          max_post_count: 5
           commit_message: "Update RAEDME.md with the latest stories on Medium!"
