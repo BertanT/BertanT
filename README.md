@@ -2,8 +2,8 @@
 - 👋 Hi! I’m Bertan! (He/Him)
 - 👀 I’m interested in Swift, Arduino, CircuitPython, Internet of Things, and Raspberry Pi!
 - 🌱 I’m currently learning TensorFlow - and anything that suddenly interests me :)
-- 🔭 I'm currently working on a new Medium publication about electronics and programming!
-- 📚 I'm currently an IB DP student.
+- 🔭 I'm currently working on a new Ghost Blog!
+- 📚 I'm currently studying Computer Science at Stevens Institute of Technology.
 - 🎠 [Check out my Swift Playgrounds Subscription!](https://www.playgrounds.bertan.codes)
 ## ✏️ My Latest Stories on Medium
 <!-- BLOG-POST-LIST:START -->
